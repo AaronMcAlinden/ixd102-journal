@@ -1,0 +1,53 @@
+body
+    {
+    width:75%;
+    max-width; 650px;
+    min-height: 320px;
+    font-size: 100%;
+    font-family: helvetica;
+    margin: auto; 
+    color: #666666;
+    line-height: 2em;
+    padding: 0 0 2em 0;
+    }
+/*-------------------- Typography ------------------*/
+
+
+h1 h2 h3
+        {
+        font-weight: normal; 
+        }
+
+h1
+    {
+    font-size: 4.236em;
+    line-height: 1em;
+    }
+
+/*---------------------Tags----------------------*/
+
+a
+    { 
+    text-decoration: none;
+    color: #666666;
+    }
+
+a:hover
+        { 
+        color:aqua;
+        }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+    
