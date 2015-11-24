@@ -7,7 +7,7 @@ body
     font-family: helvetica;
     margin: auto; 
     color: #666666;
-    line-height: 2em;
+    line-height: 1.75em;
     padding: 0 0 2em 0;
     }
 /*-------------------- Typography ------------------*/
@@ -24,6 +24,24 @@ h1
     line-height: 1em;
     }
 
+h2
+    {
+    font-size: 2.618em;
+    line-height: 1em;
+    }
+
+h3
+    {
+    font-size: 1.618em;
+    line-height: 1em;
+    }
+
+.smallfont
+    {
+    font-size: .75em;
+    }
+
+
 /*---------------------Tags----------------------*/
 
 a
@@ -36,6 +54,11 @@ a:hover
         { 
         color:aqua;
         }
+/*--------------------- images --------------------*/
+
+img {
+    padding: 1em 0;
+    }
             
             
             
